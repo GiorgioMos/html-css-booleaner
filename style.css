@@ -1,0 +1,90 @@
+.TopImg{
+    background-color: cornflowerblue;
+    background-repeat: repeat-x;
+    height: 100px;
+    background-image: url(pattern.png);
+    background-size: contain;
+}
+body{
+    margin: 0px;
+}
+.logo{
+    width: 200px;
+    height: 50px;
+    padding-top: 50px;
+    padding-left: 200px;
+}
+.allign{
+    padding-left: 200px;
+    padding-right: 200px;
+}
+.color{
+    color: dodgerblue;
+}
+h1{
+    margin-bottom: 0px;
+}
+body p{
+    margin-top: 0px;
+}
+.date{
+    font-size: 15px;
+}
+.textcenter{
+    margin-left: 300px;
+    margin-right: 300px;
+}
+.timcenter{
+    padding-left: 15%;
+}
+.allineatoreD{
+    font-size: 10px;
+    margin-left: 197px;
+}
+.allineatore{
+    margin-left: 197px;
+    margin-right: 80px;
+}
+.allineatoreL{
+    margin-left: 170px;
+}
+.allineatoreT{
+    margin-left: 340px;
+}
+th, td{
+    width:250px;
+    text-align:center;
+}
+thead{
+    text-emphasis-color: white;
+    background-color: dodgerblue;
+    text-align: center;
+}
+tbody tr{
+    background-color: rgb(138, 188, 245);
+}
+th{
+    padding: 0px;
+}
+.white{
+    background-color: white;
+}
+.undertab{
+    margin-top: 20px;
+    margin-left: 190px;
+    margin-right: 80px;
+}
+.yellow{
+    background-color: yellow;
+}
+.footer{
+    margin-left: 180px;
+    margin-top: 50px;
+    color: grey;
+}
+.link{
+    width: 200px;
+}
+div div div p{
+    
+}
